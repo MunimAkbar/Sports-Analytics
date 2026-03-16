@@ -14,7 +14,7 @@ Historical match results from [Football-Data.org]((https://www.football-data.org
 
 Poisson distribution modeling for match outcomes
 
-Monte Carlo simulation (20,000 iterations) to generate probability distributions over final league positions
+Monte Carlo simulation to generate probability distributions over final league positions
 
 The model produces a probability matrix showing each team's likelihood of finishing in each position (1st through 20th).
 
