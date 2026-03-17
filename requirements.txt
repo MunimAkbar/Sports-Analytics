@@ -1,0 +1,8 @@
+requests 
+pandas 
+pyarrow 
+aiohttp 
+understat 
+tqdm 
+python-dotenv 
+nest_asyncio
